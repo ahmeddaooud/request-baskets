@@ -3,16 +3,16 @@
 	"ignore": "test",
 	"package": [
 		{
-			"path": "github.com/boltdb/bolt"
+			"path": "/tmp/tmp.JneYANNgoH/.go/src/github.com/ahmeddaooud/request-baskets/vendor/github.com/boltdb/bolt"
 		},
 		{
-			"path": "github.com/go-sql-driver/mysql"
+			"path": "/tmp/tmp.JneYANNgoH/.go/src/github.com/ahmeddaooud/request-baskets/vendor/github.com/go-sql-driver/mysql"
 		},
 		{
-			"path": "github.com/julienschmidt/httprouter"
+			"path": "/tmp/tmp.JneYANNgoH/.go/src/github.com/ahmeddaooud/request-baskets/vendor/github.com/julienschmidt/httprouter"
 		},
 		{
-			"path": "github.com/lib/pq"
+			"path": "/tmp/tmp.JneYANNgoH/.go/src/github.com/ahmeddaooud/request-baskets/vendor/github.com/lib/pq"
 		}
 	],
 	"rootPath": "github.com/ahmeddaooud/request-baskets"
