@@ -3,16 +3,16 @@
 	"ignore": "test",
 	"package": [
 		{
-			"path": "github.com:boltdb/bolt"
+			"path": "github.com/boltdb/bolt"
 		},
 		{
-			"path": "github.com:go-sql-driver/mysql"
+			"path": "github.com/go-sql-driver/mysql"
 		},
 		{
-			"path": "github.com:julienschmidt/httprouter"
+			"path": "github.com/julienschmidt/httprouter"
 		},
 		{
-			"path": "github.com:lib/pq"
+			"path": "github.com/lib/pq"
 		}
 	],
 	"rootPath": "github.com/ahmeddaooud/request-baskets"
